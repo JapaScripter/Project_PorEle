@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import { useTranslation } from "react-i18next";
-import "@i18n/client";
+import "@/i18n/client";
 import Link from "next/link";
 
 export default function Sobre() {
