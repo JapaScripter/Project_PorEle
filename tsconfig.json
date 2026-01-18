@@ -18,7 +18,7 @@
         "name": "next"
       }
     ],
-    "baseUrl": "./src",
+    "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
       "@i18n/*": ["i18n/*"]
